@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BMW i8",
+    "description": "Fast car, will consume power"
+  },
+  {
+    "name": "McLaren F1",
+    "description": "It's loud...whaat?... IT'S LOUD!!!...ehhh, never mind!"
+  },
+  {
+    "name": "Bugatti Veyron",
+    "description": "Looks like something out of a cartoon"
+  }
+]
